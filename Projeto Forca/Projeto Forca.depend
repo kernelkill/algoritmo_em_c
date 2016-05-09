@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462767340 source:/home/kernelkill/Documentos/Linguagem C/Projeto Forca/forca.c
+	<stdio.h>
+	<stdlib.h>
+
+1462766935 source:/home/kernelkill/Documentos/Linguagem C/Projeto Forca/teste.c
+	<stdlib.h>
+	<stdio.h>
+
+1462767340 source:/home/kernelkill/Documentos/Linguagem C/Projeto Forca/forca_teste.c
+	<stdio.h>
+	<stdlib.h>
+
